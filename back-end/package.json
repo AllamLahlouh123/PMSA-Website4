@@ -1,8 +1,4 @@
-{
-    "scripts": {
-        "start": "node index.js"
-    }
-    
+{   
     "dependencies": {
         "audit": "^0.0.6",
         "child_process": "^1.0.2",
